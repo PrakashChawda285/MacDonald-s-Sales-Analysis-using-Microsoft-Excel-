@@ -2,9 +2,9 @@
 Transformed raw transactional data into meaningful insights using Excel (Power Query, Pivot Tables, and interactive dashboards). Analyzed sales performance, item popularity, customer behavior, and time-based trends to support data-driven decision-making.  Always excited to turn data into actionable insights! 
 
 
-# 🍔 McDonald's Sales Analysis Dashboard
+🍔 McDonald's Sales Analysis Dashboard
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 This project focuses on analyzing McDonald's sales data to uncover meaningful business insights using **Microsoft Excel**. Raw transactional data is transformed into an **interactive and dynamic dashboard** that highlights sales performance, item popularity, customer behavior, and time-based trends.
 
@@ -12,7 +12,7 @@ The goal of this project is to demonstrate practical **data analytics skills** a
 
 ---
 
-## 🎯 Project Objectives
+ 🎯 Project Objectives
 
 * Analyze overall sales performance and revenue trends
 * Identify best-selling and least-selling menu items
@@ -22,11 +22,11 @@ The goal of this project is to demonstrate practical **data analytics skills** a
 
 ---
 
-## 🗂️ Dataset Description
+ 🗂️ Dataset Description
 
 The analysis is based on two primary datasets:
 
-### 1️⃣ Menu Items Dataset
+ 1️⃣ Menu Items Dataset
 
 Contains details about McDonald's menu products:
 
@@ -35,7 +35,7 @@ Contains details about McDonald's menu products:
 * Category
 * Price
 
-### 2️⃣ Order Details Dataset
+ 2️⃣ Order Details Dataset
 
 Transactional data including:
 
@@ -47,7 +47,7 @@ Transactional data including:
 
 ---
 
-## 🔄 Project Workflow
+ 🔄 Project Workflow
 
 1. **Data Collection** – Imported menu and order datasets
 2. **Data Cleaning** – Removed duplicates, handled missing values, formatted date & time
@@ -58,7 +58,7 @@ Transactional data including:
 
 ---
 
-## 🛠️ Tools & Techniques Used
+ 🛠️ Tools & Techniques Used
 
 * **Microsoft Excel**
 
@@ -75,7 +75,7 @@ Transactional data including:
 
 ---
 
-## 📊 Dashboard Features
+ 📊 Dashboard Features
 
 * **Overall Sales KPIs**
 
@@ -99,7 +99,7 @@ Transactional data including:
 
 ---
 
-## 📈 Key Insights
+📈 Key Insights
 
 * Identified top-performing menu items driving maximum revenue
 * Discovered low-performing items for potential optimization
@@ -108,7 +108,7 @@ Transactional data including:
 
 ---
 
-## 🌍 Real-World Applications
+🌍 Real-World Applications
 
 * Inventory & supply planning
 * Menu optimization and pricing strategies
